@@ -1,7 +1,7 @@
 # Does Employee Training Actually Reduce Attrition?
 **Causal Inference + Survival Analysis · IBM HR Analytics**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](LINK_STREAMLIT_CỦA_BẠN)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-causal-survival-bcpk6trdvgshy7ewsdkqwc.streamlit.app/)
 
 > Phần lớn phân tích HR chỉ hỏi: "Ai sẽ nghỉ việc?"  
 > Dự án này hỏi câu khó hơn: **"Nếu tôi can thiệp, tôi thay đổi được gì?"**
@@ -121,4 +121,3 @@ streamlit run app/app.py
 
 Sinh viên Thống kê K49 · Đại học Cần Thơ · Chuyên ngành Data Science
 
-*Dự án này là phần 2 trong chuỗi portfolio DS — tập trung vào Causal Inference, kỹ năng phân biệt correlation với causation mà phần lớn DS tự học không có.*
